@@ -39,7 +39,7 @@ function SignupPage() {
 
 	return (
 		<div className="flex justify-center items-center w-screen h-screen">
-			<div className="border-gray-600 border py-10 px-20 rounded-lg ">
+			<div className="border-gray-600 border p-10  rounded-lg ">
 				<h1 className="">{Loading ? "Loading" : "SignUpPage"}</h1>
 				<br />
 				<br />
