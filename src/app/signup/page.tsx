@@ -83,7 +83,6 @@ function SignupPage() {
 					Login Here
 				</Link>
 
-				<button onClick={() => prompt("How can I help you Sir")}>Change</button>
 			</div>
 		</div>
 	);
